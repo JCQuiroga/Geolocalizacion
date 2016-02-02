@@ -94,3 +94,7 @@ c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocaliz
 c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\obj\Debug\Geolocalizacion.WinPhone.dll
 c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\obj\Debug\Geolocalizacion.WinPhone.pdb
 c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\obj\Debug\XapCacheFile.xml
+C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\Bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\Bin\Debug\Xamarin.Forms.Maps.WP8.dll
+C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\Bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\Bin\Debug\Xamarin.Forms.Maps.xml
