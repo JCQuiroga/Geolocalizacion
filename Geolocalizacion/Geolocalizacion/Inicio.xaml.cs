@@ -23,6 +23,7 @@ namespace Geolocalizacion
             if (pos == null)
             {
                 await this.DisplayAlert("Error", "No recibo la posicion", "OK");
+                return;
             }
             TxtLat.Text = pos.Latitude.ToString();
             TxtLong.Text = pos.Longitude.ToString();

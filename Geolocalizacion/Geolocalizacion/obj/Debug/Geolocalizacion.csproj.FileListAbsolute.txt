@@ -16,3 +16,5 @@ c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocaliz
 c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.pdb
 c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.dll.mdb
 c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Geolocalizacion.dll.mdb
+c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.dll.mdb
+c:\users\alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Geolocalizacion.dll.mdb
