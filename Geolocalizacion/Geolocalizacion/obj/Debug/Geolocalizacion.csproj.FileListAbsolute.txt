@@ -19,3 +19,7 @@ C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocaliz
 C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.Inicio.xaml.g.cs
 C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.dll.mdb
 C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Geolocalizacion.dll.mdb
+C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.dll.mdb
+C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Geolocalizacion.dll.mdb
+C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.dll.mdb
+C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Geolocalizacion.dll.mdb

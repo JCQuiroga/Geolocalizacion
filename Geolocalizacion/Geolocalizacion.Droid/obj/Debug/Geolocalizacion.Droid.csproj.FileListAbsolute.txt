@@ -49,5 +49,6 @@ C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocaliz
 C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
 C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
 C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Geolocalizacion.dll.mdb
 C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\obj\Debug\Geolocalizacion.Droid.dll.mdb
 C:\Users\Alumno\documents\visual studio 2015\Projects\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Geolocalizacion.Droid.dll.mdb
